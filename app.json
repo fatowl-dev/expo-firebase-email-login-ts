@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-google-auth",
-    "slug": "expo-google-auth",
+    "name": "expo-firebase-email-auth",
+    "slug": "expo-firebase-email-auth",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
