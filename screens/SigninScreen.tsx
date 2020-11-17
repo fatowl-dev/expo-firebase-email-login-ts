@@ -19,12 +19,12 @@ import firebase from 'app/firebase/firebase'
 import { RootStackParamList } from 'app/navigators/LoginNav'
 
 // propsの型チェック用
-type SignupScreenNavProp = StackNavigationProp<
+type SigninScreenNavProp = StackNavigationProp<
   RootStackParamList,
   'SigninScreen'
 > 
 type Props = {
-  navigation: SignupScreenNavProp
+  navigation: SigninScreenNavProp
 }
 
 // サインイン画面の関数コンポーネント
